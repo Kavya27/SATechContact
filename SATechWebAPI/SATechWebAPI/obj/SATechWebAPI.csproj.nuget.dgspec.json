@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Kavita\\PracticeProj\\SATechWebAPI\\SATechWebAPI\\SATechWebAPI.csproj": {}
+    "D:\\Kavita\\PracticeProj\\SATechContact\\SATechWebAPI\\SATechWebAPI\\SATechWebAPI.csproj": {}
   },
   "projects": {
-    "D:\\Kavita\\PracticeProj\\SATechWebAPI\\SATechWebAPI\\SATechWebAPI.csproj": {
+    "D:\\Kavita\\PracticeProj\\SATechContact\\SATechWebAPI\\SATechWebAPI\\SATechWebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Kavita\\PracticeProj\\SATechWebAPI\\SATechWebAPI\\SATechWebAPI.csproj",
+        "projectUniqueName": "D:\\Kavita\\PracticeProj\\SATechContact\\SATechWebAPI\\SATechWebAPI\\SATechWebAPI.csproj",
         "projectName": "SATechWebAPI",
-        "projectPath": "D:\\Kavita\\PracticeProj\\SATechWebAPI\\SATechWebAPI\\SATechWebAPI.csproj",
+        "projectPath": "D:\\Kavita\\PracticeProj\\SATechContact\\SATechWebAPI\\SATechWebAPI\\SATechWebAPI.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\Kavita\\PracticeProj\\SATechWebAPI\\SATechWebAPI\\obj\\",
+        "outputPath": "D:\\Kavita\\PracticeProj\\SATechContact\\SATechWebAPI\\SATechWebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config"
